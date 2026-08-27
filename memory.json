@@ -1,3 +1,18 @@
 {
-  "chats": []
+  "chats": [
+    {
+      "id": "chat_1787807327428",
+      "title": "привет",
+      "messages": [
+        {
+          "role": "user",
+          "content": "привет"
+        },
+        {
+          "role": "ai",
+          "content": "Привет! Как дела?"
+        }
+      ]
+    }
+  ]
 }
